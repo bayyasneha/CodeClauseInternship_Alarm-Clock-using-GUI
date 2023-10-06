@@ -1,4 +1,5 @@
-#Alarm-Clock-Implementation-using-Python
+💡Alarm-Clock-Implementation-using-Python
+
 It is no doubt that an alarm clock is always handy to alert us whenever we Sleep, take a short nap, or to remind us about the work, we always get oblivious about.
 
 Our ancestors have been using an alarm clock, going back to its 2,000 years long history but over time, the new advancements in technologies allow us to keep an alarm clock without it containing a dial, gear trains, etc. How? Let’s find out further.
@@ -58,7 +59,3 @@ As we have already converted the current time in the string before (actual time)
 Finally make the input boxes such as hourTime, minTime, and secTime which takes the entry of the time the user wants to set the alarm on in 24-hour format. Submit takes the command of the defined function actual_time and executes the clock as it acts as a set button to start the program.
 
 Clock.mainloop() is the basic and the last command was given to compile all the previous commands with their basic settings of color, font, width, axis, etc. and displays the window as soon as the program is run.
-
-Sample Output:
-
-image
